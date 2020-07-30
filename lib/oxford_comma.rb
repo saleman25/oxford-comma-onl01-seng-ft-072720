@@ -9,4 +9,4 @@ array.length == 3
 
 elsif
 array.lenth <= 3
-array.length[-1].
+array[-1].
