@@ -9,4 +9,4 @@ array.length == 3
 
 elsif
 array.lenth <= 3
-array[-1].insert[0,]
+array[-1].insert[0, "and"]
