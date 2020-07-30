@@ -9,3 +9,4 @@ array.length == 3
 
 elsif
 array.lenth <= 3
+""
