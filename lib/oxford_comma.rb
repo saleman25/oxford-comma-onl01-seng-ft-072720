@@ -11,6 +11,6 @@ else
 array.lenth > 3
 return array[-1].insert(0, "and")
 end
-array.join
+array.join(",")
 end
   
