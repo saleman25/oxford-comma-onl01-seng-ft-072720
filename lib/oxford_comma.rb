@@ -8,5 +8,5 @@ array.length == 3
 "#{array[0]}, #{array[1]}, and #{array[2]}"
 
 elsif
-array.lenth <= 3
+array.lenth > 3
 array[-1].insert[0, "and"]
